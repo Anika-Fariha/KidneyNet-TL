@@ -1,7 +1,7 @@
 # KidneyNet-TL
 Deep Learning pipeline for Kidney Disease Classification using Transfer Learning on CT scan images.
 
-# Tools & Libraries:
+# Tools & Libraries
 TensorFlow, Keras , OpenCV , NumPy, pandas, Scikit-learn, Matplotlib, Seaborn 
 
 # Dataset Reference
